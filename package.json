@@ -1,0 +1,9 @@
+{
+  "name": "minecraft-afk-bot",
+  "version": "1.0.0",
+  "description": "24/7 Minecraft Bot",
+  "main": "bot.js",
+  "dependencies": {
+    "mineflayer": "^4.24.0"
+  }
+}
